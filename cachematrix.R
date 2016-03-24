@@ -1,5 +1,4 @@
 ## Caching the Inverse of a Matrix
-## functions do
 
 ## makeCacheMatrix returns a list containing methods. 
 ## It contains the following methods:
